@@ -1,2 +1,2 @@
 # Olist_Business_Intelligence_Analysis
-Análisis financiero y operativo del marketplace Olist, preparación con SQL, limpieza con Python, modelado en Power BI y DAX, con recomendaciones estratégicas.
+Financial and operational analysis of the Olist marketplace, preparation with SQL, cleaning with Python, modeling in Power BI and DAX, with strategic recommendations.
